@@ -162,17 +162,6 @@ The dashboard is designed as a descriptive and comparative analytics tool. It su
 
 **Recommended:** Upload the Excel workbook to this repository so visitors can interact with the dashboard themselves. If the workbook contains confidential or restricted data, share an appropriately anonymized version instead.
 
-## 📂 Suggested Repository Structure
-
-```text
-car-sales-dashboard/
-│
-├── README.md
-├── Car-Sales-Dashboard.xlsx
-└── images/
-    └── car-sales-dashboard.png
-```
-
 ## 🔮 Potential Future Improvements
 
 - Add profit and profit-margin analysis if cost data becomes available.
