@@ -12,7 +12,7 @@ By integrating PivotTables, PivotCharts, interactive slicers, calculated metrics
 
 ## 📊 Dashboard Preview
 
-![Interactive Car Sales Dashboard]([images/car-sales-dashboard.png](https://github.com/oloruntayobolade/Car-Sales-Analysis_Excel-Interactive-Dashboard-Presentation/blob/main/Dashboard%20Overview.png)
+![Interactive Car Sales Dashboard](https://github.com/oloruntayobolade/Car-Sales-Analysis_Excel-Interactive-Dashboard-Presentation/blob/main/Dashboard%20Overview.png)
 
 *The dashboard provides a consolidated view of sales KPIs, annual comparisons, monthly performance, and manufacturer-level results.*
 
